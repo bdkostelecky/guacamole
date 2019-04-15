@@ -1,2 +1,6 @@
 avocados
-
+lime
+cumin
+tomato
+red onion
+mango
