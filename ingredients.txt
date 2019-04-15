@@ -4,3 +4,6 @@ cumin
 tomato
 red onion
 mango
+cilantro
+salt
+jalapeno pepper
